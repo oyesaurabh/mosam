@@ -13,7 +13,7 @@ An interactive Web application which shows the weather of any city or country in
 ->apikey is used to access weather - given via OpenWeatherApp.<br>
 ->used unsplash to change the background image as per the searched location.<br>
 
-### Check out the meme_maker right now!
+### Check out the Mosam right now!
 
 • Project Link: https://oyesaurabh.github.io/mosam/<br>
 • Source Code: https://github.com/oyeSAURABH/mosam
